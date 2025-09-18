@@ -2,7 +2,7 @@ def count_vowels(text):
     vowels = {'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'}
     count = 0
     unique_vowels = set()   
-    
+    change 1 
     for char in text:
         if char in vowels:
             count += 1
